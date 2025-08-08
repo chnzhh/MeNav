@@ -1,1 +1,38 @@
+title: 张衡导航
+description: 个人生活网址集合及工具导航
+author: ZhangHeng.org
+favicon: data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxODguMzMiIGhlaWdodD0iMTI4IiB2aWV3Qm94PSIwIDAgMjU2IDE3NCI+PHBhdGggZD0iTTIzMy4xOSAxNzMuOTUzaC05MS45NzdjLTkuOTk2IDAtMTguNC02LjQ2LTIxLjUtMTUuNDAyYy0uMjA3LS41Ny0uMzgtMS4xNS0uNTM5LTEuNzM2Yy4wMi4wNy4wMzUuMTMxLjAzNS4xMzFjLS4wMDIgMC0uMDEzLS4wNDgtLjA0OC0uMTc1bC0uMDM5LS4xNWMuMDAyIDAgLjAxOC4wNjMuMDM3LjEzYy0uODgyLTMuNDQ1LTEuMDExLTYuODg0LS4yODctMTAuMzc2Yy44NTUtNC41MTMgMi44NjQtOS4xNjMgNi4wOTMtMTMuNjk2bDQ4Ljk1NS02OC44NTdsLTI2LjI0NS0zNi43NWMtMi40Ny0zLjQ2OC01LjQyMi01LjM3OS04LjMxNC01LjM3OWMtMi44OSAwLTUuODQ0IDEuOTExLTguMzEzIDUuMzhMMjYuNjQyIDE3My45NTNIMGwuMDk4LS4xNzJMMTEzLjMzOCAxNC40N0MxMTkuNjMxIDUuNjM2IDEyOC41OTguNDI2IDEzOC4xIDBoMi41MjFjOS41MDQuNDI2IDE4LjQ2OSA1LjYzNCAyNC43NTggMTQuNDYybDIxLjgyMyAzMC42MjVMMjE5LjMwNCAwaDI2LjY0NGMtLjMzMyAxLjAzLTQ1LjQxNSA2My44MjItNDUuNDE1IDYzLjgyMmw0OC45MDUgNjguODU3YzMuMjI5IDQuNTMzIDUuMjM4IDkuMTgzIDYuMDkzIDEzLjY5NmMuNzI0IDMuNDkyLjU5NSA2LjkzLS4yODcgMTAuMzc3Yy4wMi0uMDY4LjAzNS0uMTMxLjAzNy0uMTMxbC0uMDM5LjE1Yy0uMDM1LjEyNy0uMDQ2LjE3NS0uMDQ2LjE3NWMtLjAwMiAwIC4wMTUtLjA2Mi4wMzMtLjEzYTIxLjAyMiAyMS4wMjIgMCAwIDEtLjU0IDEuNzM1Yy0zLjEgOC45NDEtMTEuNTAzIDE1LjQwMi0yMS40OTkgMTUuNDAybS00Ljk0Mi0yMi4wMTdsLjA0Mi4wMWE0LjM0MSA0LjM0MSAwIDAgMCAzLjYtNi43N2MtLjA2LS4wODgtNDQuMjE3LTYxLjk3Mi00NC42ODgtNjIuNjM1Yy0uNDcyLjY2My00NC42MyA2Mi41NDctNDQuNjkgNjIuNjM2YTQuMzQxIDQuMzQxIDAgMCAwIDMuNiA2Ljc2OWwuMDQzLS4wMWwuMDQuMDFoODIuMDEybC4wNC0uMDEiIGZpbGw9IiMzMkRBQzQiLz48L3N2Zz4=
+logo_text: 个人生活网址集合及工具导航
 
+fonts:
+  title:
+    family: Poppins
+    weight: 600
+    source: google
+  subtitle:
+    family: Quicksand
+    weight: 500
+    source: google
+  body:
+    family: Noto Sans SC
+    weight: 400
+    source: google
+    
+profile:
+  title: Hello,
+  subtitle: Welcome to My Navigation
+  description: 导航菜单
+
+social:
+  - name: GitHub
+    url: https://github.com
+    icon: fab fa-github
+  - name: Telegram
+    url: https://t.me
+    icon: fab fa-telegram
+  - name: Twitter
+    url: https://twitter.com
+    icon: fab fa-twitter
+  - name: Steam
+    url: https://steam.com
+    icon: fab fa-steam 
